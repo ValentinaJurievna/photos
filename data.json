@@ -1,0 +1,22 @@
+[
+	{
+		"id": "1",
+		"title": "Juventus",
+		"description": {
+			"structure": ["65% полиэстер", "35% хлопок"],
+			"darkening": "50%"
+		},
+		"fabric": {
+			"first": ["img/photos/Рольшторы/День-Ночь/Juventus/02.jpg", "02", "#DBD6BD"],
+			"second": ["img/photos/Рольшторы/День-Ночь/Juventus/03.jpg", "03", "#DBBDBD"],
+			"third": ["img/photos/Рольшторы/День-Ночь/Juventus/07.jpg", "07", "#B7C8D2"],
+			"fourth": ["img/photos/Рольшторы/День-Ночь/Juventus/10.jpg", "10", "#C7B974"],
+			"fifth": ["img/photos/Рольшторы/День-Ночь/Juventus/11.jpg", "11", "#7E5D45"]
+		},
+		"cost": {
+			"installation": ["Mini", "Uni", "Mgs"],
+			"price": [74, 87, 121]
+		}
+	}
+	
+]
